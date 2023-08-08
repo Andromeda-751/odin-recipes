@@ -1,0 +1,55 @@
+h1 {
+    background-color: rgb(32, 32, 32);
+    color: rgba(0, 77, 128, 0.671);
+    text-align: center;
+    font-size: 75px;
+    font-family: Georgia, "Times New Roman", sans-serif;
+    line-height: 3;
+}
+
+body {
+    background-color: rgba(42, 42, 42, 0.621);
+}
+
+ul,
+ol,
+p {
+    line-height: 1.5;
+    font-size: 30px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color: rgba(0, 50, 74, 0.899);
+}
+
+/* links */
+
+a:link {
+    color: rgba(0, 85, 128, 0.671);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgba(0, 85, 128, 0.671);
+}
+
+a:hover {
+    color: rgba(0, 255, 255, 0.45);
+}
+
+a:active {
+    color: rgba(0, 255, 208, 0.45);
+}
+
